@@ -29,4 +29,4 @@ Day to day I also lean on Claude Code and GitHub Copilot.
 
 If you have a Laravel or React project, or a role that fits, message me on [LinkedIn](https://www.linkedin.com/in/cedricjamesleala) or through [my portfolio](https://cedric-james-leala.vercel.app).
 
-<p align="center"><i>Write code the next person won't have to message you about at 2 a.m. Usually, the next person is me. 💻</i></p>
+<p align="center"><i>Most of my work runs where no one is looking.</i></p>
