@@ -2,7 +2,7 @@
 
 Full-stack developer from Rizal, Philippines. I build web apps with **Laravel, React, Inertia.js and TypeScript**, mostly the kind that run a business or an office: admin panels, workflows, reports, the stuff people log into every morning.
 
-I spent three years at TESDA building government systems used across agencies, including a national profiling MIS with multi-agency access and real-time analytics. Outside of that I've built e-commerce back offices, booking systems, procurement tools and a few AI side projects. Show me a process that lives in five spreadsheets and a group chat, and I'll want to turn it into an app.
+I spent three years at TESDA building government systems used across agencies, including a national profiling MIS with multi-agency access and real-time analytics. Outside of that I've built e-commerce back offices, booking systems, procurement tools and a few AI side projects.
 
 [Portfolio](https://cedric-james-leala.vercel.app) · [LinkedIn](https://www.linkedin.com/in/cedricjamesleala) · Open to remote, contract and part-time work
 
