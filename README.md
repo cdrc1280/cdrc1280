@@ -6,11 +6,6 @@ I spent three years at TESDA building government systems used across agencies, i
 
 [Portfolio](https://cedric-james-leala.vercel.app) · [LinkedIn](https://www.linkedin.com/in/cedricjamesleala) · Open to remote, contract and part-time work
 
-### What I'm working on
-
-- **ABCDips & Treats**: rebuilt on Laravel 13, Inertia, React 19 and PostgreSQL. Orders, POS, inventory, production batches and recipe costing in one app.
-- Getting better at domain-driven structure, typed front ends and test suites I actually trust.
-
 ### Selected projects
 
 | Project | What it does | Built with |
